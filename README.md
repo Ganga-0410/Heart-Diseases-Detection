@@ -64,7 +64,7 @@ The dataset contains **14 features** commonly associated with heart conditions s
 
 ## ✅ Results & Accuracy
 
-Each model's performance is evaluated and compared. Cross-validation ensures the model is not overfitting and performs well on unseen data.
+Each model's performance is evaluated and compared. Random Forest Model performs the best out of other models.
 
 ---
 
